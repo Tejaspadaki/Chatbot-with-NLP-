@@ -95,7 +95,7 @@ This chatbot serves as a foundation for developing advanced conversational agent
 ---
 
 ##OutPut
-
+![output](output.png)
 
 ## Contact
 For any questions or feedback, feel free to reach out to:
